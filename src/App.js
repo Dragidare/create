@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-           Build tester
+        ˌʌn.kriˈeɪ.t̬ɪv
         </p>
       </header>
     </div>
